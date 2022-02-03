@@ -1,0 +1,4 @@
+requests==2.27.1
+toml==0.10.2
+loguru==0.6.0
+pydantic==1.9.0
